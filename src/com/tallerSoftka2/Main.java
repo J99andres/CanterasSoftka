@@ -3,13 +3,16 @@ package com.tallerSoftka2;
 import java.util.Scanner;
 
 /**
- *
+ * Clase Main donde se ejecutara el programa
  * @author Jairo Andres
  */
 public class Main {
 
     public static void main(String[] args) {
-
+        
+        /**
+         * Diseño del menu para interactuar desde la consola
+         */        
         LaunchVehicle vehicle = new LaunchVehicle();
         Satellite satellite = new Satellite();
         MannedSpacecraft spacecraft = new MannedSpacecraft();

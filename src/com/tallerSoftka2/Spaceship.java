@@ -1,14 +1,13 @@
 package com.tallerSoftka2;
 
 /**
- *
+ * SuperClase abstracta que contiene un metodo abstracto, que sera utilizado por las clases que hereden 
  * @author Jairo Andres
  */
 public abstract class Spaceship {
 
-    public int speed;
-    public int power;
-
-    // Definimos el metodo para el tipo de nave espacial
+    /**
+     * Definición del atributo astracto
+     */
     public abstract void typesOfShips();
 }
