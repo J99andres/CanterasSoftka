@@ -3,7 +3,7 @@ package com.tallerSoftka2;
 public class MannedSpacecraft extends Spaceship {
     
     /**
-     * Sobreescritura del metodo abstracto de la superClase
+     * Sobreescritura del metodo abstracto de la SuperClase
      */
     @Override
     public void typesOfShips() {
