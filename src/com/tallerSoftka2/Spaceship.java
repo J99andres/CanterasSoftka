@@ -7,7 +7,7 @@ package com.tallerSoftka2;
 public abstract class Spaceship {
 
     /**
-     * Definición del atributo astracto
+     * Definición del atributo abstracto
      */
     public abstract void typesOfShips();
 }

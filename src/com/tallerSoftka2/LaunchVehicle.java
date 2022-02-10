@@ -1,7 +1,6 @@
 package com.tallerSoftka2;
 
 public class LaunchVehicle extends Spaceship {
-
     /**
      * Sobreescritura del metodo abstracto de la superClase
      */
